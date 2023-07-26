@@ -1,9 +1,13 @@
 # HOLA SOY ORNE!
 
-### Soy desarrolladora Full Stack en búsqueda de oportunidades para aplicar mis habilidades y conocimientos. Mi objetivo es crear experiencias digitales cautivadoras y funcionales mediante la combinación de diseño gráfico y desarrollo web. Me apasiona entregar soluciones estéticamente atractivas y técnicamente sólidas. ¡Estoy lista para unirme a tu equipo y hacer que tus proyectos cobren vida!
+#### I am a Full Stack developer with a specialized focus on the frontend. My greatest desire is to find new and exciting opportunities to apply my skills and knowledge. I am driven by a passion for creating captivating and highly functional digital experiences through the combination of graphic design and web development.
+
+#### I thoroughly enjoy delivering aesthetically appealing and technically sound solutions, finding great satisfaction in seeing projects come to life through my dedication. My objective is to make a difference in every project I participate in, ensuring that every detail is carefully crafted.
+
+#### If you are seeking someone who fully engages and brings an innovative approach to frontend development, then I am ready to join your team and bring your ideas to life.
 
 
-## MIS HABILIDADES
+### Technical Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey?logo=javascript&logoColor=white&labelColor=grey&style=for-the-badge&title=)
 ![TypeScript](https://img.shields.io/badge/TypeScript-grey?logo=typescript&logoColor=white&labelColor=grey&style=for-the-badge&title=)
@@ -19,7 +23,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?logo=postgresql&logoColor=white&labelColor=grey&style=for-the-badge&title=)
 
 
-## HERRAMIENTAS DE DISEÑO
+### Design Tools
 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-grey?logo=adobe%20illustrator&logoColor=white&labelColor=grey&style=for-the-badge&title=)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-grey?logo=adobe%20photoshop&logoColor=white&labelColor=grey&style=for-the-badge&title=)
@@ -27,7 +31,7 @@
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-grey?logo=adobe%20indesign&logoColor=white&labelColor=grey&style=for-the-badge&title=)
 
 
-## CONTACTO
+### Contact
 
 #### Buscas talento en desarrollo? Contáctame! Si estás interesado/a en discutir oportunidades de trabajo o colaboración, estaré encantada de conversar con vos. Podes encontrarme en:
 
