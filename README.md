@@ -1,4 +1,4 @@
-# HOLA SOY ORNE!
+## Hi! mi name is Ornella!
 
 #### I am a Full Stack developer with a specialized focus on the frontend. My greatest desire is to find new and exciting opportunities to apply my skills and knowledge. I am driven by a passion for creating captivating and highly functional digital experiences through the combination of graphic design and web development.
 
@@ -22,7 +22,6 @@
 ![Vite](https://img.shields.io/badge/Vite-grey?logo=vite&logoColor=white&labelColor=grey&style=for-the-badge&title=)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?logo=postgresql&logoColor=white&labelColor=grey&style=for-the-badge&title=)
 
-
 ### Design Tools
 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-grey?logo=adobe%20illustrator&logoColor=white&labelColor=grey&style=for-the-badge&title=)
@@ -33,7 +32,7 @@
 
 ### Contact
 
-#### Buscas talento en desarrollo? Contáctame! Si estás interesado/a en discutir oportunidades de trabajo o colaboración, estaré encantada de conversar con vos. Podes encontrarme en:
+#### Are you looking for development talent? Contact me! If you're interested in discussing job opportunities or collaboration, I'll be happy to talk with you. You can find me at:
 
-- #### https://www.linkedin.com/in/ornella-c%C3%B3pula/
-- #### orne.el38@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ornella%20C%C3%B3pula-lightgrey?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ornella-c%C3%B3pula/)
+[![Email](https://img.shields.io/badge/Email-orne.el38%40gmail.com-lightgrey?logo=gmail&style=for-the-badge)](mailto:orne.el38@gmail.com)
