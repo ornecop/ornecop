@@ -1,4 +1,4 @@
-## Hi! mi name is Ornella!
+### Hi! mi name is Ornella!
 
 #### I am a Full Stack developer with a specialized focus on the frontend. My greatest desire is to find new and exciting opportunities to apply my skills and knowledge. I am driven by a passion for creating captivating and highly functional digital experiences through the combination of graphic design and web development.
 
@@ -6,7 +6,7 @@
 
 #### If you are seeking someone who fully engages and brings an innovative approach to frontend development, then I am ready to join your team and bring your ideas to life.
 
-
+---
 ### Technical Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey?logo=javascript&logoColor=white&labelColor=grey&style=for-the-badge&title=)
@@ -22,6 +22,7 @@
 ![Vite](https://img.shields.io/badge/Vite-grey?logo=vite&logoColor=white&labelColor=grey&style=for-the-badge&title=)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?logo=postgresql&logoColor=white&labelColor=grey&style=for-the-badge&title=)
 
+---
 ### Design Tools
 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-grey?logo=adobe%20illustrator&logoColor=white&labelColor=grey&style=for-the-badge&title=)
@@ -29,7 +30,7 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-grey?logo=adobe%20premiere%20pro&logoColor=white&labelColor=grey&style=for-the-badge&title=)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-grey?logo=adobe%20indesign&logoColor=white&labelColor=grey&style=for-the-badge&title=)
 
-
+---
 ### Contact
 
 #### Are you looking for development talent? Contact me! If you're interested in discussing job opportunities or collaboration, I'll be happy to talk with you. You can find me at:
