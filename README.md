@@ -5,19 +5,25 @@
 
 ## MIS HABILIDADES
 
-- #### Adobe Illustrator, Indesing, Premiere Pro, Photoshop <i class="fab fa-adobe"></i>
-- #### HTML5 <i class="fab fa-html5"></i>
-- #### CSS3 <i class="fab fa-css3-alt"></i>
-- #### Tailwind <i class="fab fa-tailwind"></i>
-- #### Sass <i class="fab fa-sass"></i>
-- #### JavaScript <i class="fab fa-js"></i>
-- #### Typescript <i class="fab fa-js"></i> <!-- Puedes usar el mismo icono para JavaScript y TypeScript si lo deseas -->
-- #### React <i class="fab fa-react"></i>
-- #### Vite <i class="fas fa-cog"></i> <!-- Puedes usar un icono de engranaje para Vite -->
-- #### Node.js <i class="fab fa-node"></i>
-- #### PostgreSQL <i class="fas fa-database"></i> <!-- Puedes usar un icono de base de datos para PostgreSQL -->
-- #### Git <i class="fab fa-git"></i>
+ ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+ ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+ ![HTML5](https://img.shields.io/badge/HTML5-orange)
+ ![CSS3](https://img.shields.io/badge/CSS3-blue)
+ ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-blue)
+ ![Sass](https://img.shields.io/badge/Sass-pink)
+ ![Node.js](https://img.shields.io/badge/Node.js-green)
+ ![Express.js](https://img.shields.io/badge/Express.js-lightgrey)
+ ![Redux](https://img.shields.io/badge/Redux-purple)
+ ![React](https://img.shields.io/badge/React-blue)
+ ![Vite](https://img.shields.io/badge/Vite-brightgreen)
+ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 
+## HERRAMIENTAS DE DISEÑO
+
+ ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-orange)
+ ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-blue)
+ ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-blue)
+ ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-red)
 
 ## CONTACTO
 
