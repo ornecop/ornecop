@@ -5,15 +5,18 @@
 
 ## MIS HABILIDADES
 
-- #### Diseño gráfico
-- #### Desarrollo full stack
-- #### HTML5/CSS3
-- #### Tailwind
-- #### JavaScript
-- #### React
-- #### Node.js
-- #### Base de datos SQL
-- #### Git
+- #### Adobe Illustrator, Indesing, Premiere Pro, Photoshop <i class="fab fa-adobe"></i>
+- #### HTML5 <i class="fab fa-html5"></i>
+- #### CSS3 <i class="fab fa-css3-alt"></i>
+- #### Tailwind <i class="fab fa-tailwind"></i>
+- #### Sass <i class="fab fa-sass"></i>
+- #### JavaScript <i class="fab fa-js"></i>
+- #### Typescript <i class="fab fa-js"></i> <!-- Puedes usar el mismo icono para JavaScript y TypeScript si lo deseas -->
+- #### React <i class="fab fa-react"></i>
+- #### Vite <i class="fas fa-cog"></i> <!-- Puedes usar un icono de engranaje para Vite -->
+- #### Node.js <i class="fab fa-node"></i>
+- #### PostgreSQL <i class="fas fa-database"></i> <!-- Puedes usar un icono de base de datos para PostgreSQL -->
+- #### Git <i class="fab fa-git"></i>
 
 
 ## CONTACTO
